@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "indexers", "indexers", "{4E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use of Indexers", "Use of Indexers\Use of Indexers.csproj", "{A2DDE4C0-CCB3-4D15-ABAF-8D61C645B52B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloaded Indexers", "Overloaded Indexers\Overloaded Indexers.csproj", "{D5186E2B-0199-474A-BFD1-D67F206FB784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{A2DDE4C0-CCB3-4D15-ABAF-8D61C645B52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2DDE4C0-CCB3-4D15-ABAF-8D61C645B52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DDE4C0-CCB3-4D15-ABAF-8D61C645B52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5186E2B-0199-474A-BFD1-D67F206FB784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5186E2B-0199-474A-BFD1-D67F206FB784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5186E2B-0199-474A-BFD1-D67F206FB784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5186E2B-0199-474A-BFD1-D67F206FB784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +39,7 @@ Global
 		{22907F53-0911-4136-8B05-6759DC2FB672} = {737BD5CB-CFF4-4E26-B2A1-BA58E50B8878}
 		{4E8FEC3A-24B8-4A67-827A-096FCCFE50D2} = {737BD5CB-CFF4-4E26-B2A1-BA58E50B8878}
 		{A2DDE4C0-CCB3-4D15-ABAF-8D61C645B52B} = {4E8FEC3A-24B8-4A67-827A-096FCCFE50D2}
+		{D5186E2B-0199-474A-BFD1-D67F206FB784} = {4E8FEC3A-24B8-4A67-827A-096FCCFE50D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB190356-D269-43DC-A1A2-D5B31F7E74B0}
