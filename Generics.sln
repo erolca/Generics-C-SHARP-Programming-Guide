@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.2.7. Change contents in 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.2.8. Store user-defined Objects in a List collection", "18.2.8. Store user-defined Objects in a List collection\18.2.8. Store user-defined Objects in a List collection.csproj", "{C95BFB04-1305-41F8-ABDF-62C6A30A195C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Sort With Comparer", "List Sort With Comparer\List Sort With Comparer.csproj", "{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -215,6 +217,18 @@ Global
 		{C95BFB04-1305-41F8-ABDF-62C6A30A195C}.Release|x64.Build.0 = Release|Any CPU
 		{C95BFB04-1305-41F8-ABDF-62C6A30A195C}.Release|x86.ActiveCfg = Release|Any CPU
 		{C95BFB04-1305-41F8-ABDF-62C6A30A195C}.Release|x86.Build.0 = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|x64.Build.0 = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Debug|x86.Build.0 = Debug|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|x64.ActiveCfg = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|x64.Build.0 = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|x86.ActiveCfg = Release|Any CPU
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -234,6 +248,7 @@ Global
 		{8538545B-1C6E-4C2C-A365-187FE5A5E9E7} = {84DB4479-DFA6-400F-B659-204B0A8E6ACB}
 		{63237615-A537-42A0-9A97-DD40A68B900E} = {84DB4479-DFA6-400F-B659-204B0A8E6ACB}
 		{C95BFB04-1305-41F8-ABDF-62C6A30A195C} = {84DB4479-DFA6-400F-B659-204B0A8E6ACB}
+		{51BB6D2F-52DE-4DC8-8865-BC714FB5743F} = {84DB4479-DFA6-400F-B659-204B0A8E6ACB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB190356-D269-43DC-A1A2-D5B31F7E74B0}
