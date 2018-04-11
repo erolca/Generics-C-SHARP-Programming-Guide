@@ -6,6 +6,8 @@ class MainClass
 {
     static void Main()
     {
+  
+    
         Collection<int> numbers = new Collection<int>();
         numbers.Add(2);
         numbers.Add(9);
@@ -22,6 +24,16 @@ class MainClass
         {
             Console.WriteLine(i);
         }
+
+        //Ben yaptım oldu... :)
+        IList<string> theString = strings;
+        foreach( string str_ in strings)
+        {
+
+            Console.WriteLine(str_);
+        }
+
+
     }
 }
 //2
