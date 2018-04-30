@@ -11,5 +11,6 @@ class MainClass
     static void Main()
     {
         PrintType(1, new object());
+        PrintType(2, new int());
     }
 }

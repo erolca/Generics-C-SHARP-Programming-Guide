@@ -21,4 +21,15 @@ public class MainClass
             Console.WriteLine(number);
         }
     }
+
+    public static void Main()
+    {
+        ;
+    }
+
+  
+
 }
+
+
+  
