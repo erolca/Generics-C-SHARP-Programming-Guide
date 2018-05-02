@@ -133,7 +133,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.13.Generic Class( 3 )", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.13.1. A simple generic class", "18.13.1. A simple generic class\18.13.1. A simple generic class.csproj", "{A61EF6B0-824C-4A8B-BA99-5069C0BDADE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.13.2. A simple generic class with two type param", "18.13.2. A simple generic class with two type param.\18.13.2. A simple generic class with two type param.csproj", "{DAE6B9AA-2A29-4107-8DED-61B25BB46F4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.13.2. A simple generic class with two type param", "18.13.2. A simple generic class with two type param\18.13.2. A simple generic class with two type param.csproj", "{DAE6B9AA-2A29-4107-8DED-61B25BB46F4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.13.3. Generic Pair", "18.13.3. Generic Pair\18.13.3. Generic Pair.csproj", "{EF195ABC-423B-424A-817F-9B590AD1D12B}"
 EndProject
@@ -145,7 +145,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.14.2. Generic Delegate",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.15.Generic Parameter( 2 )", "18.15.Generic Parameter( 2 )", "{2C62BEE6-DE45-4600-822F-4D8433B436BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.15.1. Create relationship between two type param", "18.15.1. Create relationship between two type param.\18.15.1. Create relationship between two type param.csproj", "{F7F8EE5D-7791-4A82-8314-9EB8319259F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.15.1. Create relationship between two type param", "18.15.1. Create relationship between two type param\18.15.1. Create relationship between two type param.csproj", "{F7F8EE5D-7791-4A82-8314-9EB8319259F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.15.2. Default generic parameter value", "18.15.2. Default generic parameter value\18.15.2. Default generic parameter value.csproj", "{BB2CB28A-2B74-4F2A-A891-BA0A983745C2}"
 EndProject
@@ -153,7 +153,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.16.Generic Hiearchy( 4 )
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.16.1. A simple generic class hierarchy", "18.16.1. A simple generic class hierarchy\18.16.1. A simple generic class hierarchy.csproj", "{19ED1D6F-5FE2-4C34-AB2A-650AEBABE31A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.16.2. A derived class can add its own type param", "18.16.2. A derived class can add its own type param.\18.16.2. A derived class can add its own type param.csproj", "{37DBF8FC-9BB0-4BCC-8775-1FF154322769}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.16.2. A derived class can add its own type param", "18.16.2. A derived class can add its own type param\18.16.2. A derived class can add its own type param.csproj", "{37DBF8FC-9BB0-4BCC-8775-1FF154322769}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.16.3.  generic derived class", "18.16.3.  generic derived class\18.16.3.  generic derived class.csproj", "{C85657CA-AED3-4A15-9EBB-013F82C4986C}"
 EndProject
@@ -169,7 +169,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.17.3. Generic IEquatable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.17.4. Declaring a Generic Interface", "18.17.4. Declaring a Generic Interface\18.17.4. Declaring a Generic Interface.csproj", "{F925F13E-D320-4479-BB9C-97165154284D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.17.5. Declaring a Generic with Multiple Type Param", "18.17.5. Declaring a Generic with Multiple Type Param.\18.17.5. Declaring a Generic with Multiple Type Param.csproj", "{6D0F57B4-C135-476C-ACBB-E2EFDE50D5B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.17.5. Declaring a Generic with Multiple Type Param", "18.17.5. Declaring a Generic with Multiple Type Param\18.17.5. Declaring a Generic with Multiple Type Param.csproj", "{6D0F57B4-C135-476C-ACBB-E2EFDE50D5B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.17.6. Generic Interface for binary operation", "18.17.6. Generic Interface for binary operation\18.17.6. Generic Interface for binary operation.csproj", "{7A174B8A-A762-4745-B462-DD60E9874F11}"
 EndProject
@@ -185,7 +185,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.19.2. A more practical d
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.20.new constaint( 1 )", "18.20.new constaint( 1 )", "{BD043788-54CC-44DB-A42E-FCEC7502BA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.20.1. Demonstrate a new() constructor constraint", "18.20.1. Demonstrate a new() constructor constraint.\18.20.1. Demonstrate a new() constructor constraint.csproj", "{51C3E020-A2D8-4C83-8C84-8D0EE11F4D3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.20.1. Demonstrate a new() constructor constraint", "18.20.1. Demonstrate a new() constructor constraint\18.20.1. Demonstrate a new() constructor constraint.csproj", "{51C3E020-A2D8-4C83-8C84-8D0EE11F4D3A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.21.Type constaint( 3 )", "18.21.Type constaint( 3 )", "{EBF2DD76-2F8C-4131-8002-EFBDCB30F674}"
 EndProject
@@ -197,7 +197,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.21.3. Static Field Per C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.22.default( 2 )", "18.22.default( 2 )", "{842498CF-4BE9-485A-BFA1-7C42788CB427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.22.1. Demonstrate the default keyword", "18.22.1. Demonstrate the default keyword.\18.22.1. Demonstrate the default keyword.csproj", "{9AF8E225-4479-4A4E-B076-892A2838B5D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.22.1. Demonstrate the default keyword", "18.22.1. Demonstrate the default keyword\18.22.1. Demonstrate the default keyword.csproj", "{9AF8E225-4479-4A4E-B076-892A2838B5D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.22.2. Default generic value", "18.22.2. Default generic value\18.22.2. Default generic value.csproj", "{C6D9033C-9548-4A51-99B4-6CD5A140AD57}"
 EndProject
@@ -208,6 +208,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.23.2. where T struct", "18.23.2. where T struct\18.23.2. where T struct.csproj", "{2ED2BC4D-DDCF-471E-9DAF-EF5DB3768736}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.23.3. Generic Operator Overloading", "18.23.3. Generic Operator Overloading\18.23.3. Generic Operator Overloading.csproj", "{4E673EFE-0AE2-4C9A-A2DE-12C34CF883B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Classes", "Generic Classes\Generic Classes.csproj", "{E2B572B9-856E-4A48-AAF5-847EA03C5A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1155,6 +1157,18 @@ Global
 		{4E673EFE-0AE2-4C9A-A2DE-12C34CF883B1}.Release|x64.Build.0 = Release|Any CPU
 		{4E673EFE-0AE2-4C9A-A2DE-12C34CF883B1}.Release|x86.ActiveCfg = Release|Any CPU
 		{4E673EFE-0AE2-4C9A-A2DE-12C34CF883B1}.Release|x86.Build.0 = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|x64.Build.0 = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2B572B9-856E-4A48-AAF5-847EA03C5A89}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
