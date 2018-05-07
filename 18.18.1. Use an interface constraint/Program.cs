@@ -4,21 +4,16 @@ class NotFoundException : ApplicationException { }
 
 public interface IUserID
 {
-    string Number
-    {
+    string Number {
         get;
-        set;
-    }
+        set;}
 
-    string Name
-    {
+    string Name {
         get;
-        set;
-    }
+        set;}
 }
 
-class Engineer : IUserID
-{
+class Engineer : IUserID{
     string name;
     string number;
 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{95F3695D-CA7E-48A9-8E35-7F0ED41034E7}</ProjectGuid>
+    <ProjectGuid>{8E91FC03-AA3B-471D-87DA-1843522E0CB1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_18._18._1.Use_an_interface_constraint</RootNamespace>
-    <AssemblyName>_18._18._1.Use_an_interface_constraint</AssemblyName>
+    <RootNamespace>GenericStruct752018</RootNamespace>
+    <AssemblyName>GenericStruct752018</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,12 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
